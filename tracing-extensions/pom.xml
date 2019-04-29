@@ -38,6 +38,7 @@
         <module>modules/ballerina-zipkin-extension</module>
         <module>modules/ballerina-noop-extension</module>
         <module>modules/ballerina-sp-extension</module>
+        <module>modules/ballerina-skywalking-extension</module>
     </modules>
 
 </project>
